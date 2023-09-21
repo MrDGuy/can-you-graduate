@@ -1,0 +1,26 @@
+{
+    "name": "Can you Graduate?",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "adventure": "github:microsoft/arcade-tutorial-extensions/adventure#v0.0.16"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.41",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "pyprj"
+}

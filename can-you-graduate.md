@@ -5,14 +5,14 @@ Write a program to determine if a student is eligible to graduate. Create a vari
 
 You can graduate if you have enough units AND you have met the requirements.
 
-Display the results by printing the value of can_graduate with the ``||adventure:add text to textlog||``
+Display the results by printing the results in an ``||adventure:add text to textlog||``
 
 ## Can you graduate?
 Write a program to determine if a student is eligible to graduate. Create a variable called has_enough_units and a variable called has_met_requirements and set them equal to a ``||game:ask||``.
 
 You can graduate if you have enough units AND you have met the requirements.
 
-Display the results by printing the value of can_graduate with the ``||adventure:add text to textlog||``
+Display the results by printing the results in an ``||adventure:add text to textlog||``
 
 ```python
   has_enough_units = game.ask("Do you have enough credits?", "OK = True, Cancel = False")

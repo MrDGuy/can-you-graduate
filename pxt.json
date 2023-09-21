@@ -10,7 +10,8 @@
         "main.ts",
         "README.md",
         "assets.json",
-        "main.py"
+        "main.py",
+        "can-you-graduate.md"
     ],
     "testFiles": [
         "test.ts"
